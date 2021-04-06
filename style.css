@@ -5,6 +5,7 @@ body{
   background-repeat: no-repeat;
   background-position: top center;
   background-size: cover;
+  overflow: scroll;
 }
 
 
